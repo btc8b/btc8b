@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: :)
 
 <!---
 btc8b/btc8b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
